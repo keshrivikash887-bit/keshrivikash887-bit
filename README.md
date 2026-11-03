@@ -12,16 +12,11 @@
   <a href="https://linkedin.com/in/vikash-keshri" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Vikash%20Keshri-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:keshrivikash887@gmail.com">
-    <img src="https://img.shields.io/badge/Email-keshrivikash887%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="tel:+917004696959">
-    <img src="https://img.shields.io/badge/Phone-+91--7004696959-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone/WhatsApp" />
-  </a>
-  <a href="#-contact--quick-interview">
+  <a href="#-contact--lets-connect">
     <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-success?style=for-the-badge&logo=azurepipelines&logoColor=white" alt="Hiring Status" />
   </a>
-  <img src="https://img.shields.io/badge/Location-Bengaluru%2C%20India-0078D4?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/badge/Experience-2%2B%20Years%20Production-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Experience" />
+  <img src="https://img.shields.io/badge/Location-Bengaluru%2C%20India-blue?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
 </p>
 
 ---
@@ -222,24 +217,16 @@ flowchart LR
 
 ---
 
-### 📬 Contact & Quick Interview
+### 📬 Contact & Let's Connect
 
 <p align="center">
   <b>Are you hiring for a Cloud / DevOps Engineer who can hit the ground running on Day 1?</b><br/>
-  <i>I'm actively interviewing and ready to contribute to your engineering organization!</i>
+  <i>I'm actively interviewing and ready to contribute to your engineering organization! Feel free to connect with me directly on LinkedIn.</i>
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/vikash-keshri" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:keshrivikash887@gmail.com">
-    <img src="https://img.shields.io/badge/Email-keshrivikash887%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="tel:+917004696959">
-    <img src="https://img.shields.io/badge/Call%20%2F%20WhatsApp-+91--7004696959-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
 
