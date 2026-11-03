@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi, I'm Vikash Keshri
+# Hi, I'm Vikash Keshri <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=0078D4&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+Profile;Cloud+%26+DevOps+Engineer+(2%2B+Years+Exp);Microsoft+Azure+%7C+Terraform+(IaC);Azure+DevOps+%7C+GitHub+Actions;Kubernetes+(AKS)+%7C+Docker+Containers;Zero-Trust+Hub-Spoke+%7C+DevSecOps;Multi-Cloud+Mindset%3A+Azure+•+AWS+•+GCP" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=0078D4&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+Profile;Cloud+%26+DevOps+Engineer+(2%2B+Years+Experience);Microsoft+Azure+%7C+Terraform;Azure+DevOps+%7C+GitHub+Actions;Kubernetes+(AKS)+%7C+Docker;Infrastructure+as+Code+(IaC);DevSecOps+%7C+CI%2FCD+Automation" />
 
 <p>
 
